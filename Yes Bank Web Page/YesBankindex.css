@@ -1,0 +1,94 @@
+.ul1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+li a {
+    display: block;
+    width: auto;
+    color: rgb(0, 0, 0);
+    padding: 8px 15px;
+    text-decoration: none;
+}
+
+.li {
+    display: inline;
+}
+
+.ul2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.list a:hover {
+    color: blue;
+    background-color: rgb(247, 247, 247);
+}
+
+.list {
+    float: left;
+}
+
+.p{
+    padding-top:15px;
+    padding-left: 5px;
+}
+
+.login{
+    float: right;
+    padding-top:16px;
+    background-color: rgb(224, 0, 0);
+    padding-bottom: 20px;
+    color: white;
+}
+.login a:hover{
+    color: white;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown1 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown1 {
+    display: block;
+  }
+
+  .menu{
+      background-color: gray;
+      color: white;
+  }
+
+  body{
+      background-image: url("HDFCB.jpg");
+      background-size: cover;
+      width: 100%;
+  }
+
+  .red{
+      color: red !important;
+  }
+
+  .text{
+      padding-top: 50px;
+      padding-left: 50px;
+      color: rgb(0, 0, 0);
+  }
+  .help{
+      text-decoration: none;
+      color: black;
+  }
+  .help:hover{
+      color: green;
+  }

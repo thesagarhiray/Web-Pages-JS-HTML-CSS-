@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
+.lpad{
+    padding: 10px 30px ;
+    margin-left: 30px;
+}
+
+input[type=text],[type=password] {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.padding1{
+    padding-top: 5px;
+    padding-left: 0;
+}
+.button1{
+    background-color: rgb(0, 98, 179);
+    border: none;
+    padding: 8px 30px 8px 30px;
+    color: white;
+    border-style: solid;
+    border-radius: 7px;
+
+}
+.font{
+    font-family: 'Kanit', sans-serif;
+}
+.font1font{
+    font-family: 'Outfit', sans-serif;
+}
+.size{
+    font-size: 12px;
+}
+.col4{
+    background-color: rgb(252, 252, 252);
+}
