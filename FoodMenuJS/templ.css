@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(255, 72, 0);
+    text-align: center;
+    font-family: URW Chancery L, cursive;
+}
+h2 {
+    color: rgb(37, 37, 37);
+    font-family: URW Chancery L, cursive;
+}
+table {
+    text-align: left;
+    width: 100%;
+    height: 100%;
+    font-size: larger;
+    
+    
+}
+
+td {
+    color: rgb(255, 72, 0);
+}
+.c {
+    border-bottom: 1px dashed rgb(255, 72, 0);
+}
+s,th, td {
+    width:150px;
+    border:1px solid black;
+    padding:5px
+  
+}
+.container {
+    background-color: rgb(56, 56, 56);
+}
+button {
+    background-color: rgb(255, 72, 0); /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
