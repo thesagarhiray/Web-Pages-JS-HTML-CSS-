@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&family=Lobster&family=Maven+Pro&family=Montserrat:wght@300&display=swap');
+.navlogo{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    color: rgb(255, 255, 255);
+}
+.navsearch{
+    text-align: center;
+}
+.search{
+    width: 50%;
+    padding: 5px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.dp{
+    height: 30px;
+    width: 30px;
+    background-image: url(img/post.jpg);
+    border-radius: 50%;
+    float: right;
+    margin-top: -28px;
+    margin-right: 10px;
+    background-size: cover;
+    border: 1px solid black;
+}
+.icon1{
+    text-decoration: none;
+    padding-left: 20px;
+    color: rgb(221, 221, 221);
+    font-size: 25px;
+}
+.post{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    margin-top: 7px;
+    margin-left: 8px;
+    background-size: cover;
+    display: inline-block;
+}
+.name{
+    padding-top: 17px;
+}
+.icon11{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    padding-right: 10px;
+}
+.icon111{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    float: right;
+}
+.caption{
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+.fixed1 {
+    position: fixed;
+    background-color: rgba(225, 225, 225, 0.8);
+    height: 450px;
+    width: 477px;
+    background-size: cover;
+    border: 1px solid rgb(230, 230, 230);
+  }
+  .sticky1{
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+}
+.colorbg{
+    background-image: url("img/back11.jpg");
+
+}
+.post11{
+    background-image: url(img/post11.jpg);
+}
+.post22{
+    background-image: url(img/post22.jpg);
+}
+.post33{
+    background-image: url(img/post33.jpg);
+}
+.post44{
+    background-image: url(img/post44.jpg);
+}
+.post55{
+    background-image: url(img/post55.jpg);
+}
+.div11{
+    background-color: white;
+    border: 1px solid rgb(230, 230, 230);
+}
+.bannerlogo{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+    display: inline-block;
+    background-image: url("img/post.jpg");
+}
+.bannername{
+    padding-top: 40px;
+    margin-left: 10px;
+}

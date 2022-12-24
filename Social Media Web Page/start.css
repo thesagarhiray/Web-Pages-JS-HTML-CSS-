@@ -1,0 +1,37 @@
+body{
+    background-image: url("img/back11.jpg");
+}
+.heading{
+    padding-top: 14%;
+    padding-left: 100px;
+}
+.mybook{
+    color: rgb(67, 102, 255);
+    font-size: 60px;
+}
+.para{
+    font-size: 30px;
+}
+.logininfo{
+    background-color: white;
+    height: auto;
+    width: 90%;
+    margin-top: 25%;
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px 5px rgba(225, 225, 225, 0.5);
+    padding: 15px 15px 15px 15px;
+}
+.loginele{
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.CNA{
+    background-color: rgb(0, 180, 0);
+    width: 70%;
+    color: white;
+}
+.forgotpass{
+    text-decoration: none;
+}
